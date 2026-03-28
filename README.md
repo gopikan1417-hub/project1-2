@@ -39,3 +39,49 @@ This project analyzes retail sales data to understand business performance. It h
 The project helps improve business decisions by identifying profitable areas and reducing losses.
 
 ---
+YouTube Trending Video Analytics
+
+📌 Project Overview
+
+This project analyzes YouTube trending videos data to understand viewer behavior, video popularity, and trends.
+
+🎯 Objective
+
+- To analyze views, likes, and trends
+- To identify popular categories
+- To study video performance over time
+
+🛠 Tools Used
+
+- Power BI
+
+📂 Dataset
+
+- YouTube Trending Videos Dataset
+- Contains: Title, Views, Likes, Category, Publish Date
+
+⚙️ Steps Performed
+
+1. Data loading into Power BI
+2. Data cleaning and formatting
+3. Creating KPI cards (views, likes)
+4. Category and channel analysis
+5. Trend analysis using line chart
+6. Dashboard creation with slicers
+
+📊 Key Insights
+
+- Some categories have higher views
+- More views lead to more likes
+- Video trends change over time
+
+🎛 Features
+
+- Interactive dashboard
+- Slicer for category filtering
+
+✅ Conclusion
+
+This project helps understand video performance and trending patterns on YouTube.
+
+---
